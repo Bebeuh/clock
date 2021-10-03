@@ -2,4 +2,4 @@
 
 ## Light Mode
 
-![alt text](https://imgur.com/a/8fSD4Pk)
+![alt text](/img/clock-light-demo.png)
